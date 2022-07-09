@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Courgette&family=Stick+No+Bills:wght@300&family=Timmana&family=Trispace:wght@200;400&display=swap');
+* {
+    padding: 0%;
+    margin: 0%;
+  }
+  body {
+    background-color: rgb(251, 254, 205);
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-family: 'Carter One', cursive;
+  }
+  #titleName {
+    color: rgb(79, 10, 81);
+  }
+  #benefits {
+    color: rgb(19, 19, 120);
+  }
+  #hr {
+    width: 100vw;
+  }
+  #benefits {
+    padding: 10px;
+  }
+  #stepForVegetableSalad {
+    padding: 10px;
+  }
+  #steps {
+    padding: 10px;
+  }
+  #benefitsParagraph {
+    padding: 2px;
+  }
+  #footerText {
+    padding: 10px;
+  }
